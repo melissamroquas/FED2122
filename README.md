@@ -40,11 +40,11 @@ link website: https://www.urbanoutfitters.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Muziek pagina 
-<img src="images/pagina1.png" width="375px" alt="Muziek pagina - Urban Outfitters">
+<img src="images/image1.png" width="375px" alt="Muziek pagina - Urban Outfitters">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Product pagina
-<img src="images/pagina1.png" width="375px" alt="Product (vinyl) pagina - Urban Outfitters">
+<img src="images/image2.png" width="375px" alt="Product (vinyl) pagina - Urban Outfitters">
  
 </details>
 
@@ -56,13 +56,20 @@ Product pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/schets1-home.png" width="375px" alt="breakdown van de hele pagina">
+
+### section van homepage: 
+<img src="images/schets2-section.png" width="375px" alt="breakdown van de hele pagina">
+
+### pagina 2 (product)
+<img src="images/schets3-product.png" width="375px" alt="breakdown van de pagina 2">
+
+### pagina 2 (product)
+<img src="images/schets4-product.png" width="375px" alt="breakdown van de pagina 2">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/schets5-menu.png" width="375px" alt="breakdown van het menu">
 
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
