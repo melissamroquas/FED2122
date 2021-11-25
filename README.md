@@ -83,16 +83,24 @@ Product pagina
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+Ik vond het lastig om met mijn opdracht te starten. Ik heb sinds vorige jaar niks meer met codes gedaan dus ik moest wel weer even wennen. Het gaat elke werkgroep wel weer beter maar toch blijft het moeilijk. Coderen voelt voor mij echt als een soort wiskunde. Toch heb ik wel hoop dat het goed komt met mijn eindopdracht. Ik maak veel aantekeningen tijdens de lessen en zoek veel bronnen op voor meer info. Ik ben van plan om in de weekenden eraan te werken en hulp te vragen wanneer nodig is.
+
+Ik denk dat het voor mij verstandig is om elk onderdeel rustig aan te pakken en pas verder te gaan als het gelukt is. Ik merk namelijk soms dat ik te snel wil gaan om zo veel mogelijk content te coderen (zodat ik niet in tijdnood kom), maar ik zie dat het nu ook belangrijk is dat de content wel goed en netjes gecodeerd moet zijn. 
+
+Ik ben sinds 24 november begonnen. Ik ben op dit moment bezig met de header.
+<img src="images/headerstart.png" width="375px" alt="header">
+
 
 ### Agenda voor meeting
-samen met je groepje opstellen
+Samen met je groepje opstellen
+Sharon, Daniel en ik zitten samen in een groepje waar we voor vormgeving en FED samen vragen bespreken voor de meetings. In de Whatsappgroep hebben we met elkaar gesproken en de vragen opgesteld. Vanwege een afspraak doe ik deze les mee met groepje A maar toch vond ik het belangrijk om even de vragen te kunnen stellen zodat we als team volgende meeting wel op dezelfde lijn zitten.
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+Vragen:
+- Hoe kun je het beste beginnen met je website responsive maken, zijn hier tips voor?
+- Hoe maak je de font size responsive?
+- Hoe maak ik een hamburgermenu?
+- Hoe kan ik het beste foto's (content) in mijn website zetten, zijn hier tips voor?
+- Is er een schema/stappenplan aanwezig/wat is het slimste om als eerste mee te beginnen?
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -116,6 +124,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+Ik vind het beginnen met de code heel erg lastig. Het neemt veel tijd in en ik ben lang bezig geweest met het begin. Ik vind het wel leuk om nieuwe dingen te leren dus ik hoop dat het de volgende week wel beter gaat. 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
