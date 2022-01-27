@@ -1,9 +1,0 @@
-<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
-    <defs>
-        <style>.cls-1{fill:#343434;}</style>
-    </defs>
-    <path id="Rectangle_85" data-name="Rectangle 85" class="cls-1"
-          d="M21.36,9.15,70.85,58.64a8.64,8.64,0,0,1,0,12.21h0a8.64,8.64,0,0,1-12.21,0L9.15,21.36a8.64,8.64,0,0,1,0-12.21h0A8.64,8.64,0,0,1,21.36,9.15Z"/>
-    <path id="Rectangle_90" data-name="Rectangle 90" class="cls-1"
-          d="M70.85,21.36,21.36,70.85a8.64,8.64,0,0,1-12.21,0h0a8.64,8.64,0,0,1,0-12.21L58.64,9.15a8.64,8.64,0,0,1,12.21,0h0A8.64,8.64,0,0,1,70.85,21.36Z"/>
-</svg>
